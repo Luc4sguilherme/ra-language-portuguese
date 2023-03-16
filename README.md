@@ -7,7 +7,7 @@ Brazilian Portuguese messages for [react-admin](https://github.com/marmelab/reac
 ## Installation
 
 ```sh
-npm install --save ra-language-portuguese
+npm install --save @luc4sguilherme/ra-language-portuguese
 ```
 
 or
