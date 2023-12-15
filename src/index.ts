@@ -40,6 +40,7 @@ const portugueseMessages: TranslationMessages = {
       open: 'Abrir',
       toggle_theme: 'Alternar tema',
       select_columns: 'Colunas',
+      update_application: 'Recarregar aplicativo',
     },
     boolean: {
       true: 'Sim',
@@ -142,6 +143,7 @@ const portugueseMessages: TranslationMessages = {
       canceled: 'Ação cancelada',
       logged_out: 'Sua sessão foi finalizada, por favor reconecte.',
       not_authorized: 'Você não está autorizado a acessar este recurso.',
+      application_update_available: 'Uma nova versão está disponível.',
     },
     validation: {
       required: 'Obrigatório',
@@ -153,6 +155,7 @@ const portugueseMessages: TranslationMessages = {
       email: 'Deve ser um e-mail válido',
       oneOf: 'Deve ser um destes: %{options}',
       regex: 'Deve respeitar um formato específico (regexp): %{pattern}',
+      unique: 'Deve ser único',
     },
     saved_queries: {
       label: 'Consultas salvas',
